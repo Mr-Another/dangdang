@@ -1,0 +1,31 @@
+{
+  "BookList":[
+    {
+      "title":"领域不可错过的入门好书",
+      "count":"5本书",
+      "intro":"挑选了几本各个领域不错的入门好书，一起来看看吧",
+      "pic":["static/img/h1.jpg","static/img/h2.jpg","static/img/h3.jpg","static/img/h4.jpg"],
+      "like":10,
+      "comment":8
+    },
+    {
+      "title":"据说优秀的女性，都看过这几本书",
+      "count":"15本书",
+      "intro":"\"优雅并非顷刻的的引人注目，而是让人永志难忘\"",
+      "pic":["static/img/h5.jpg","static/img/h6.jpg","static/img/h7.jpg","static/img/h8.jpg","static/img/h8.jpg"],
+      "like":10,
+      "comment":8
+    }
+
+  ],
+  "BookVideo":[
+    {
+      "title":"这五本书恨不得通宵读完",
+      "videos":"static/video/v01.mp4"
+    },
+    {
+      "title":"这五本书恨不得通宵读完",
+      "videos":"static/video/v01.mp4"
+    }
+  ]
+}

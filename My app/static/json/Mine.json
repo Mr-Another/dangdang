@@ -1,0 +1,123 @@
+{
+  "MineInfo":[
+    {
+      "name":"当当云阅读",
+      "title":"您关注的书电子版可以免费阅读",
+      "book":[
+        {
+          "pic": "static/img/w1.jpg",
+          "info":"把生活过成艺术"
+        },{
+          "pic": "static/img/w2.jpg",
+          "info":"年轻人要多背债"
+        },{
+          "pic": "static/img/w3.jpg",
+          "info":"情商高，才能活得好"
+        },{
+          "pic": "static/img/w4.jpg",
+          "info":"金瓶梅(全集在线观看)"
+        },{
+          "pic": "static/img/w5.jpg",
+          "info":"月亮与六个女人"
+        },{
+          "pic": "static/img/w6.jpg",
+          "info":"凉生我们在一起"
+        },{
+          "pic": "static/img/w7.jpg",
+          "info":"走遍中国没毛病"
+        },{
+          "pic": "static/img/w8.jpg",
+          "info":"我喜欢生活在中国"
+        },{
+          "pic": "static/img/w9.jpg",
+          "info":"在北大听讲座"
+        },{
+          "pic": "static/img/w10.jpg",
+          "info":"你坚持的理由是什么"
+        }
+      ],
+      "ending":"剩余租阅时长：2天"
+    }
+  ],
+  "Tool":[
+    {"pic":"icon-fenxiang","call":"安全中心","color":"#4873cf"},
+    {"pic":"icon-like","call":"客服帮助","color":"#1e75de"},
+    {"pic":"icon-quanbudingdan","call":"领券中心","color":"#d33aa4"},
+    {"pic":"icon-gouwuche","call":"我的拼团","color":"#da4642"},
+    {"pic":"icon-shouhoutuikuan","call":"我的微盟","color":"f78918"},
+    {"pic":"icon-dianpu","call":"我的拍卖","color":"#17ce96"},
+    {"pic":"icon-biaoqian","call":"安全中心","color":"#f1c40f"}
+  ],
+  "MineWant":[
+    {
+      "name":"你坏（大冰2018作品！预售10分钟8.6万册+，30分钟突破11.8万册，再创当当历史新纪录）",
+      "price":22.5,
+      "pic":"static/img/w1.jpg",
+      "isSs":true,
+      "pinkage":true
+    },
+    {
+      "name":"云边有个小卖部",
+      "price":21.00,
+      "pic":"static/img/w2.jpg",
+      "isSs":true,
+      "pinkage":true
+    },
+    {
+      "name":"三体：全三册 刘慈欣代表作，亚洲首部“雨果奖”获奖作品！",
+      "price":22.5,
+      "pic":"static/img/w3.jpg",
+      "isSs":true,
+      "pinkage":false
+    },
+    {
+      "name":"心有猛虎 细嗅蔷薇（余光中散文精选）",
+      "price":39.5,
+      "pic":"static/img/w4.jpg",
+      "isSs":true,
+      "pinkage":true
+    },
+    {
+      "name":"圈层突破 : 如何打破人生的壁垒（当当签名版）",
+      "price":22.5,
+      "pic":"static/img/w5.jpg",
+      "isSs":true,
+      "pinkage":false
+    },
+    {
+      "name":"国家是怎样炼成的2",
+      "price":22.5,
+      "pic":"static/img/w6.jpg",
+      "isSs":true,
+      "pinkage":false
+    },
+    {
+      "name":"边城",
+      "price":22.5,
+      "pic":"static/img/w7.jpg",
+      "isSs":true,
+      "pinkage":true
+    },
+    {
+      "name":"小王子（畅销300万册，作者基金会官方认证简体中文版）【果麦经典】",
+      "price":22.5,
+      "pic":"static/img/w8.jpg",
+      "isSs":true,
+      "pinkage":true
+    },
+    {
+      "name":"肥志百科(当当独家亲笔签名+表情包贴纸）",
+      "price":22.5,
+      "pic":"static/img/w9.jpg",
+      "isSs":true,
+      "pinkage":false
+    },
+    {
+      "name":"东野圭吾：白夜行（2017版，易烊千玺、韩雪推荐，东野圭吾无冕之王）",
+      "price":22.5,
+      "pic":"static/img/w10.jpg",
+      "isSs":true,
+      "pinkage":true
+    }
+  ]
+}

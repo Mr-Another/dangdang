@@ -1,0 +1,113 @@
+[
+  {
+    "id":1,
+    "pic":"static/img/r1.jpg",
+    "name":"活着（2017年新版）",
+    "author":"余华",
+    "house":"作家出版社",
+    "isSs":true,
+    "flas":true,
+    "now":15.30,
+    "old":28.00,
+    "favorable":5
+  },{
+  "id":2,
+  "pic":"static/img/r2.jpg",
+  "name":"人间失格",
+  "author":"太宰治 著，杨伟 译",
+  "house":"作家出版社",
+  "isSs":true,
+  "flas":true,
+  "now":10.70,
+  "old":25.00,
+  "favorable":2
+},{
+  "id":3,
+  "pic":"static/img/r3.jpg",
+  "name":"月亮和六便士（全新导读无删节详注版！）",
+  "author":"〔英〕毛姆 著 苏福忠 译",
+  "house":"时代文艺出版社",
+  "isSs":true,
+  "flas":true,
+  "now":11.60,
+  "old":27.00,
+  "favorable":4
+},{
+  "id":4,
+  "pic":"static/img/r4.jpg",
+  "name":"三体：全三册，亚洲首部“雨果奖”获奖作品",
+  "author":"刘慈欣",
+  "house":"重庆出版社",
+  "isSs":true,
+  "flas":false,
+  "now":55.80,
+  "old":93.00,
+  "favorable":4
+},{
+  "id":5,
+  "pic":"static/img/r5.jpg",
+  "name":"追风筝的人（2018年新版）",
+  "author":"〔美〕卡勒德·胡塞尼",
+  "house":"上海人民出版社",
+  "isSs":true,
+  "flas":false,
+  "now":18.00,
+  "old":36.00,
+  "favorable":5
+},{
+  "id":6,
+  "pic":"static/img/r6.jpg",
+  "name":"云边有个小卖部",
+  "author":"张嘉佳 著，博集天卷 出品",
+  "house":"湖南文艺出版社",
+  "isSs":true,
+  "flas":false,
+  "now":21.00,
+  "old":42.00,
+  "favorable":4
+},{
+  "id":7,
+  "pic":"static/img/r7.jpg",
+  "name":"马尔克斯：百年孤独（50周年纪念版）",
+  "author":"加西亚·马尔克斯 著，新经典 出品",
+  "house":"南海出版社",
+  "isSs":true,
+  "flas":false,
+  "now":41.30,
+  "old":55.00,
+  "favorable":5
+},{
+  "id":8,
+  "pic":"static/img/r8.jpg",
+  "name":"白夜行",
+  "author":"余华",
+  "house":"作家出版社",
+  "isSs":true,
+  "flas":true,
+  "now":15.30,
+  "old":28.00,
+  "favorable":5
+},{
+  "id":9,
+  "pic":"static/img/r9.jpg",
+  "name":"你坏（大冰2018作品，预售10分钟8.6万册+）",
+  "author":"大冰 著，博集天卷 出品",
+  "house":"湖南文艺出版社",
+  "isSs":true,
+  "flas":true,
+  "now":15.30,
+  "old":28.00,
+  "favorable":5
+},{
+  "id":10,
+  "pic":"static/img/r10.jpg",
+  "name":"霍乱时期的爱情（2015版）一本好书 腾讯视屏栏目推荐",
+  "author":"马尔克斯 著，杨玲 译",
+  "house":"南海出版社",
+  "isSs":true,
+  "flas":false,
+  "now":34.20,
+  "old":49.50,
+  "favorable":4
+}
+]
